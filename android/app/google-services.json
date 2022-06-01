@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909912966897",
+    "firebase_url": "https://chathai-a9cf1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chathai-a9cf1",
+    "storage_bucket": "chathai-a9cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909912966897:android:92723b0f3e63486bd54b50",
+        "android_client_info": {
+          "package_name": "com.example.chathai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909912966897-6sgv489ak0kus5l9738bf4g1v4cf4t34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chathai",
+            "certificate_hash": "64af5c9d7be70ae890ee68c73ad427aeefd00569"
+          }
+        },
+        {
+          "client_id": "909912966897-rm73i3b4i5kee9oqfhq5ss0a044sandr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-B1Z8o5dur6F3YEJCIfJ25vy11XMIwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909912966897-rm73i3b4i5kee9oqfhq5ss0a044sandr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
